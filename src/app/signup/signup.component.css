@@ -1,0 +1,22 @@
+.background-left{
+    background-image: url('/assets/images8.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: left bottom;
+    
+
+}
+.background-right{
+    background-color: rgb(24, 182, 255);
+}
+.card{
+    background-color: transparent;
+    color:#fff;
+}
+.text-muted{
+    color: #fff !important;
+}
+.btn[type=submit]{
+    border-radius: 50px;
+
+}
